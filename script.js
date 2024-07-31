@@ -33,8 +33,8 @@ const app = {
         {
             name: 'Sugar',
             singer: 'Maroon 5',
-            path: 'song/1.mp3',
-            image: 'img/1.jpg'
+            path: './song/1.mp3',
+            image: './img/1.jpg'
         },
         {
             name: 'Đừng làm trái tim anh đau',
